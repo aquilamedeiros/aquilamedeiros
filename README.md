@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Áquila Medeiros.
 
-- 🌱 Estudando HTML e CSS
+- 🔭 Servidor Público
+- 🌱 Atualmente estou aprendendo
+- ⚡ Curiosidade
+  - ♒ 21 Anos
+  - 🎮 Amante de Games
 
 <div align="center">
   <a href="https://github.com/aquilamedeiros">
