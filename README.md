@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Áquila Medeiros.
 
 - 🌱 Estudando HTML e CSS
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/aquilamedeiros">
