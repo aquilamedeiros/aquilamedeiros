@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Áquila Medeiros.
 
 - 🔭 Servidor Público
-- 🌱 Atualmente estou aprendendo
+- 🌱 Atualmente estou aprendendo HTML5 e CSS3
 - ⚡ Curiosidade
   - ♒ 21 Anos
   - 🎮 Amante de Games
